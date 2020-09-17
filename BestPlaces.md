@@ -4,3 +4,7 @@
 - Aquazoo
 - Museum Kunstpalast
 - Japanese Garden
+- Hofgarten
+- Nord Park
+- Neuer Zollhof
+- Schlossturm
