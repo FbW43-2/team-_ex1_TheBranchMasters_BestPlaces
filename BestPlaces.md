@@ -14,3 +14,36 @@ The night life is here. so many Clubs and Bars also resturants an other things..
 
 ## 5.Altstadt (Old City, Vieux Ville)
 The old city part of Hamburg. Here is the famous sights like the Elbphilharmonie and the Speicherstadt where you can take a look at Hamburgs History. in near of the Michel (mainchurch St. Michaelis.
+
+
+## Leipzig
+
+### 1. Markt and Old City Hall
+
+    If you want to walk, eat, have a drink or do some shopping
+
+### 2. Starbucks
+
+    If you want to code
+
+### 3. St. Nicholas Church and the Miracle of Leipzig Monument
+
+    If you want to see something nice
+
+### 4. Leipzig Zoo
+
+### 5. Museum of Fine Arts
+
+
+
+## Dusseldorf
+
+- Rhine Tower
+- Königsalle
+- Aquazoo
+- Museum Kunstpalast
+- Japanese Garden
+- Hofgarten
+- Nord Park
+- Neuer Zollhof
+- Schlossturm
