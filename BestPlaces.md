@@ -1,4 +1,7 @@
-# Augsburg ; Germany
+# Best Places to visit for DCI students in their current locations
+
+
+## Augsburg ; Germany
 
 ### `Augsburg` is the third largest city in Bavaria after Munich and Nuremberg.This ancient and famous imperial city was once the home of the two great medieval merchant dynasties of the Fuggers and the Welsers and is now the chief town of the administrative region of Bavarian Swabia (Bayerisch-Schwaben). Once connected with Verona by the Via Claudia, an ancient Roman road, Augsburg's favorable location promoted it as a center of commerce.
 
@@ -16,3 +19,57 @@
 
 - `Maximilianstrasse and the Maximilian Museum`. `Maximilian Street` — or Maximilianstrasse — lies in the heart of Augsburg where the old Roman road connecting Germany and Italy began. It's a marvelous old street to wander along. It's also a great shopping destination, especially at night, and if you're in the mood for a memorable dining experience after a day of gallery and attraction hopping, there are numerous restaurants to choose from.
 A fun thing to do on this historic street is pay a visit to the `Maximilian Museum` with its vivid portrayal of the history, art, and culture of Augsburg. Located in a palatial 16th-century former merchant's house, the museum's exhibits of decorative arts include sculptures, work by local gold and silversmiths, and artifacts from the town's rich history.
+
+
+
+## Hamburg
+
+## 1. Planten und Blomen
+A lot of plants and flowers from everywhere. Very beautiful!
+
+## 2. Hamburger Hafen (Haven,Docks)
+Its part of hamburg history. Smell the water and the fish and get the taste of Hamburg!
+
+## 3. Jungfernstieg
+In the middle of the city. Many resturant and much water around everything. Not Venezia but at least as beutiful as it.
+
+## 4. Reeperbahn
+The night life is here. so many Clubs and Bars also resturants an other things...
+
+## 5.Altstadt (Old City, Vieux Ville)
+The old city part of Hamburg. Here is the famous sights like the Elbphilharmonie and the Speicherstadt where you can take a look at Hamburgs History. in near of the Michel (mainchurch St. Michaelis.
+
+
+
+## Leipzig
+
+### 1. Markt and Old City Hall
+
+    If you want to walk, eat, have a drink or do some shopping
+
+### 2. Starbucks
+
+    If you want to code
+
+### 3. St. Nicholas Church and the Miracle of Leipzig Monument
+
+    If you want to see something nice
+
+### 4. Leipzig Zoo
+
+### 5. Museum of Fine Arts
+
+
+
+## Dusseldorf
+
+- Rhine Tower
+- Königsalle
+- Aquazoo
+- Museum Kunstpalast
+- Japanese Garden
+- Hofgarten
+- Nord Park
+- Neuer Zollhof
+- Schlossturm
+
